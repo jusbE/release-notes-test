@@ -1,7 +1,7 @@
 {
   "name": "release-notes-test",
   "version": "3.0.6",
-  "description": "aaaaaaaasddasdasdasdaaaasdsdsda",
+  "description": "aaaaaaaasasdaaaasdsdsda",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
