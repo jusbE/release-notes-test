@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/jusbE/release-notes-test/compare/v3.0.0...v4.0.0) (2020-04-24)
+
+
+### Features
+
+* Add authentication ([68dcb19](https://github.com/jusbE/release-notes-test/commit/68dcb1929130e7edb9a0ce28605137450ed0a2eb))
+
 ## [3.0.0](https://github.com/jusbE/release-notes-test/compare/v2.0.0...v3.0.0) (2020-04-24)
 
 
