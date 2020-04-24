@@ -16,10 +16,5 @@
   "bugs": {
     "url": "https://github.com/jusbE/release-notes-test/issues"
   },
-  "homepage": "https://github.com/jusbE/release-notes-test#readme",
-  "devDependencies": {
-    "@semantic-release/release-notes-generator": "^9.0.1",
-    "semantic-release": "^17.0.7",
-    "standard-version": "^7.1.0"
-  }
+  "homepage": "https://github.com/jusbE/release-notes-test#readme"
 }
