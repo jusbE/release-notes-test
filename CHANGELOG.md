@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [4.0.1](https://github.com/jusbE/release-notes-test/compare/v4.0.0...v4.0.1) (2020-04-24)
 
+
+### Documentation
+
+* added readme ([e0bdd8d](https://github.com/jusbE/release-notes-test/commit/e0bdd8d50953c78ee2e30d14c1cb8dcb2f7031a9))
+* JIRA-123/fix readme file ([915ff5a](https://github.com/jusbE/release-notes-test/commit/915ff5ab79d05944ef87d6bf221de446609190ad))
+
 ## [4.0.0](https://github.com/jusbE/release-notes-test/compare/v3.0.0...v4.0.0) (2020-04-24)
 
 
