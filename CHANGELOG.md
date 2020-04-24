@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/jusbE/release-notes-test/compare/v1.0.0...v2.0.0) (2020-04-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* something important removed
+
+https://jira.kesko.fi/browse/KIGCMD-123
+
+### Features
+
+* New feature added ([d4a104d](https://github.com/jusbE/release-notes-test/commit/d4a104dac3b72a33b780961015eff69f4581fd96))
+
 ## 1.0.0 (2020-04-24)
 
 
