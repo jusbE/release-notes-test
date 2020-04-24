@@ -1,6 +1,0 @@
----
-  dataSource: "prs"
-  prefix: "v"
-  onlyMilestones: false
-  groupBy: {}
-  changelogFilename: "CHANGELOG.md"
