@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/jusbE/release-notes-test/compare/v2.0.0...v3.0.0) (2020-04-24)
+
+
+### Features
+
+* important feature added ([d2d7e4e](https://github.com/jusbE/release-notes-test/commit/d2d7e4ea934c5ee2785919be6c94d4d68af9e48d))
+
+
+### Bug Fixes
+
+* fixed important feature based on review ([d549056](https://github.com/jusbE/release-notes-test/commit/d549056bf71bea2d615a1b091751cd9edc07065f))
+
 ## [2.0.0](https://github.com/jusbE/release-notes-test/compare/v1.1.2...v2.0.0) (2020-04-24)
 
 ### [1.1.2](https://github.com/jusbE/release-notes-test/compare/v1.1.1...v1.1.2) (2020-04-24)
