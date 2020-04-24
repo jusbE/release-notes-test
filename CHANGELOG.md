@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.1](https://github.com/jusbE/release-notes-test/compare/v3.0.0...v3.0.1) (2020-04-24)
+
+
+### Bug Fixes
+
+* fix something ([5b7258e](https://github.com/jusbE/release-notes-test/commit/5b7258e6131ff45e22a945280eb1b1b717ed3585))
+
 ## [3.0.0](https://github.com/jusbE/release-notes-test/compare/v2.0.0...v3.0.0) (2020-04-24)
 
 
